@@ -5553,6 +5553,23 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 <img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
 -->
 
+
+## OpenClaw Monitor
+
+⭐ **Real-time AI Agent Monitoring Dashboard for OpenClaw**
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+### Features
+- **Real-time Monitoring**: Live Gateway connection and session status
+- **Token Statistics**: Track prompt/completion tokens with visual charts
+- **Multi-Agent Support**: Monitor multiple OpenClaw agents simultaneously
+- **7-Day Trends**: Message volume and token usage history
+- **WebSocket-based**: Instant updates without page refresh
+
+### Links
+- GitHub: https://github.com/flik2002/openclaw-monitor
+
 ## Join the community
 - Follow us on [X ](https://twitter.com/e2b)
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
