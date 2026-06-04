@@ -2253,6 +2253,30 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 
 </details>
 
+
+## [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor)
+Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends
+
+<details>
+
+![image](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+### Category
+Monitoring, observability, OpenClaw ecosystem
+
+### Description
+- Real-time token usage tracking across multiple AI models
+- Session history and conversation analytics with 7-day trend charts
+- Multi-model support (GPT-4, Claude, Gemini, local LLMs via Ollama)
+- Vue 3 + ECharts dashboard — self-hosted, no external dependencies
+- Designed for developers running OpenClaw agents in production
+
+### Links
+- [GitHub](https://github.com/flik2002/openclaw-monitor)
+- [Live Demo](https://flik2002.github.io/openclaw-monitor/)
+
+</details>
+
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
